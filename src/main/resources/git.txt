@@ -1,0 +1,10 @@
+git init
+git branch -M [branch name]
+git add .
+git commit -m "[messeage]"
+git remote add origin [url]
+git remote remove origin
+git branch
+git checkout -b [branch name]
+git push origin [branch name]
+git pull origin [branch name]
